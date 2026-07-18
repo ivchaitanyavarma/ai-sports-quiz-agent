@@ -2,6 +2,7 @@ import json
 import random
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.documents import Document
 from src.config import settings, get_logger
 
@@ -12,10 +13,21 @@ class DatabaseManager:
     
     def __init__(self):
         try:
-            self.embeddings = OpenAIEmbeddings(
-                model=settings.EMBEDDING_MODEL,
-                api_key=settings.OPENAI_API_KEY
-            )
+            # Dynamically route the embedding engine
+            if settings.EMBEDDING_PROVIDER == "huggingface":
+                logger.info(f"Initializing local HuggingFace embeddings: {settings.HF_EMBEDDING_MODEL}")
+                self.embeddings = HuggingFaceEmbeddings(
+                    model_name=settings.HF_EMBEDDING_MODEL,
+                    encode_kwargs={"normalize_embeddings": True}
+                )
+            else:
+                logger.info(f"Initializing remote OpenAI embeddings: {settings.OPENAI_EMBEDDING_MODEL}")
+                self.embeddings = OpenAIEmbeddings(
+                    model=settings.OPENAI_EMBEDDING_MODEL,
+                    api_key=settings.OPENAI_API_KEY
+                )
+
+            # Bind the selected embedding engine to ChromaDB
             self.vector_store = Chroma(
                 persist_directory=settings.CHROMA_PERSIST_DIR,
                 embedding_function=self.embeddings

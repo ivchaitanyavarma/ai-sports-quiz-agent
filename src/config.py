@@ -1,5 +1,6 @@
 import os
 import logging
+from typing import Literal
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 class Settings(BaseSettings):
@@ -7,7 +8,17 @@ class Settings(BaseSettings):
     OPENAI_API_KEY: str
     GOOGLE_API_KEY: str
     CHROMA_PERSIST_DIR: str = "./chroma_db"
-    EMBEDDING_MODEL: str = "text-embedding-3-small"
+    
+    # --- New Embedding Configuration ---
+    # Set to either "openai" or "huggingface" in your .env file
+    EMBEDDING_PROVIDER: Literal["openai", "huggingface"] = "openai"
+    
+    # OpenAI model (Used if provider is 'openai')
+    OPENAI_EMBEDDING_MODEL: str = "text-embedding-3-small"
+    
+    # Hugging Face model (Used if provider is 'huggingface')
+    HF_EMBEDDING_MODEL: str = "mixedbread-ai/mxbai-embed-large-v1"
+    
     LLM_MODEL: str = "gemini-1.5-flash"
     LLM_TEMPERATURE: float = 0.7
     
