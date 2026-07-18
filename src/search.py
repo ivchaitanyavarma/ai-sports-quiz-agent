@@ -12,11 +12,14 @@ class SearchManager:
     def discover_live_data(self, topic: str, difficulty: str) -> str:
         """Modifies programmatic search parameters to shape context depth based on specific sport domains."""
         
+        # Updated domain mapping to include Tennis and Athletics
         domain_mapping = {
             "Formula 1": "Drivers Constructors Championship youngest oldest records streaks",
             "Football": "World Cup Euro UEFA Champions League European Cup finals host score",
             "Cricket": "ODI World Cup T20 World Test Championship finals records",
-            "Basketball": "NBA Finals FIBA World Cup champions records"
+            "Basketball": "NBA Finals FIBA World Cup champions records",
+            "Tennis": "Wimbledon Australian Open French Open US Open men's singles champions Open Era records",
+            "Athletics": "Olympic Men's Women's 100m Champions gold medal records"
         }
         
         domain_context = domain_mapping.get(topic, topic)

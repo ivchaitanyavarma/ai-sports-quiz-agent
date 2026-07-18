@@ -94,14 +94,13 @@ def main():
     setup_session_state()
     
     st.title("🏟️ AI Sports Quiz Agent")
-    st.caption("Production Grade LangGraph Workflow leveraging Retrieval-Augmented Generation")
     
     # --- Sidebar Configuration Controls ---
     with st.sidebar:
         st.header("🔧 Quiz Configurations")
         sport_selection = st.selectbox(
             "Target Sport", 
-            ["Formula 1", "Football", "Cricket", "Basketball"]
+            ["Formula 1", "Football", "Cricket", "Basketball", "Tennis", "Athletics"] # <-- Added Tennis and Athletics
         )
         difficulty_selection = st.select_slider(
             "System Tier Level", 
@@ -194,10 +193,12 @@ def main():
         with st.expander("📊 View Agent Knowledge Base Domains", expanded=True):
             st.markdown("""
             This agent is fully grounded on verified historic datasets coupled with real-time web execution vectors:
-            *   🏎️ **Formula 1:** Drivers' (1950–2025) & Constructors' Champions (1958–2025), plus 15 key records.
+            *   🏎️ **Formula 1:** Drivers' (1950–2025) & Constructors' Champions (1958–2025), plus key records.
             *   ⚽ **Football:** World Cup (1930–2022), Euro (1960–2024), UEFA Champions League (1956–2026).
             *   🏏 **Cricket:** ODI (1975–2023) & T20 World Cups (2007–2026), World Test Championship (2021–2025).
             *   🏀 **Basketball:** NBA Finals (1947–2026), FIBA World Cup (1950–2023).
+            *   🎾 **Tennis:** Wimbledon, French Open, US Open (1968–2026), and Australian Open (1988–2026) Men's Singles Open Era champions & records.
+            *   🏃 **Athletics:** Olympic Men's (1896–2024) & Women's (1928–2024) 100m Champions & records.
             """)
 
 if __name__ == "__main__":
