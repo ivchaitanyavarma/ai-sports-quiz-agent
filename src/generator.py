@@ -1,3 +1,4 @@
+import random
 from typing import TypedDict, List, Optional
 from pydantic import BaseModel, Field
 from langgraph.graph import StateGraph, END
@@ -19,14 +20,12 @@ class GraphState(TypedDict):
     system_errors: List[str]
 
 class QuizItem(BaseModel):
-    """Schema for a single question."""
     question: str = Field(description="The final multiple choice quiz question text.")
     options: List[str] = Field(description="Exactly 4 distinct answers, including the true answer and 3 distractors.")
     correct_answer: str = Field(description="The exact text option matching the correct answer choice.")
     explanation: str = Field(description="Historical and logical confirmation backing up the answer validation.")
 
 class QuizBatchOutput(BaseModel):
-    """Schema for the 10-question batch."""
     questions: List[QuizItem] = Field(description="A list of exactly 10 distinct multiple-choice quiz questions.")
 
 # --- Initialize Core LLM Client Runtime ---
@@ -36,7 +35,6 @@ try:
         temperature=settings.LLM_TEMPERATURE,
         google_api_key=settings.GOOGLE_API_KEY
     )
-    # Bind the new batch schema
     structured_generator = gemini_llm.with_structured_output(QuizBatchOutput)
 except Exception as e:
     logger.critical(f"Critical initialization failure for Google Gemini API engine: {e}")
@@ -73,12 +71,21 @@ def node_synthesize_quiz(state: GraphState) -> dict:
     - Medium Mode: Ensure incorrect options are plausible historic athletes, scores, or milestones.
     - Hard Mode: Deceive the user using highly sophisticated, structurally related real dates, similar sports personalities, or inverse statistics that are contextually invalid for this specific prompt.
 
-    Validate your constraints before finishing: The data must be accurate, avoid hallucinating facts, and output exactly 10 unique questions.
+    CRITICAL DIVERSITY RULE (PREVENT REDUNDANCY):
+    - You MUST generate 10 completely distinct questions. 
+    - Do NOT ask multiple questions about the same specific event, player, match, or statistic. 
+    - Span different eras, records, and milestones to ensure a broad test of knowledge.
     """
     
     try:
         response = structured_generator.invoke(prompt)
-        return {"quiz_result": response.model_dump()}
+        result_data = response.model_dump()
+        
+        # FIX 1: Programmatically shuffle the options array to eliminate LLM ordering bias
+        for question_data in result_data["questions"]:
+            random.shuffle(question_data["options"])
+            
+        return {"quiz_result": result_data}
     except Exception as e:
         logger.error(f"Structured response generation crash: {e}")
         return {"system_errors": [f"LLM compilation failure: {str(e)}"]}

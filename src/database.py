@@ -13,7 +13,7 @@ class DatabaseManager:
     
     def __init__(self):
         try:
-            # Dynamically route the embedding engine
+            # 1. Dynamically route the embedding engine using the correct config keys
             if settings.EMBEDDING_PROVIDER == "huggingface":
                 logger.info(f"Initializing local HuggingFace embeddings: {settings.HF_EMBEDDING_MODEL}")
                 self.embeddings = HuggingFaceEmbeddings(
@@ -27,7 +27,7 @@ class DatabaseManager:
                     api_key=settings.OPENAI_API_KEY
                 )
 
-            # Bind the selected embedding engine to ChromaDB
+            # 2. Bind the selected embedding engine to ChromaDB
             self.vector_store = Chroma(
                 persist_directory=settings.CHROMA_PERSIST_DIR,
                 embedding_function=self.embeddings
@@ -54,7 +54,8 @@ class DatabaseManager:
             logger.error(f"Ingestion lifecycle failed: {e}")
             return False
 
-    def query_sampled_facts(self, topic: str, overfetch_k: int = 6, sample_k: int = 2) -> str:
+    # FIX: Wide context sampling from 2 facts to 10 facts to support 10 unique questions
+    def query_sampled_facts(self, topic: str, overfetch_k: int = 15, sample_k: int = 10) -> str:
         """Implements 'Over-Fetch & Sample' to force variety in RAG output."""
         try:
             logger.info(f"Executing over-fetch semantic query for topic: {topic}")
