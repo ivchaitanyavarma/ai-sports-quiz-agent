@@ -121,7 +121,9 @@ def main():
         # End of Quiz State
         if index >= len(batch):
             if not st.session_state.has_celebrated:
-                st.balloons()
+                # FIX: Only trigger balloons if score is 7 or higher
+                if st.session_state.score >= 7:
+                    st.balloons()
                 st.session_state.has_celebrated = True
                 # Lock in the completion message variation
                 st.session_state.completion_message = random.choice(COMPLETION_PREFIXES)
