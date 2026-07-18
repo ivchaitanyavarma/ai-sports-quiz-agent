@@ -18,11 +18,16 @@ class GraphState(TypedDict):
     quiz_result: Optional[dict]
     system_errors: List[str]
 
-class QuizOutput(BaseModel):
+class QuizItem(BaseModel):
+    """Schema for a single question."""
     question: str = Field(description="The final multiple choice quiz question text.")
     options: List[str] = Field(description="Exactly 4 distinct answers, including the true answer and 3 distractors.")
     correct_answer: str = Field(description="The exact text option matching the correct answer choice.")
     explanation: str = Field(description="Historical and logical confirmation backing up the answer validation.")
+
+class QuizBatchOutput(BaseModel):
+    """Schema for the 10-question batch."""
+    questions: List[QuizItem] = Field(description="A list of exactly 10 distinct multiple-choice quiz questions.")
 
 # --- Initialize Core LLM Client Runtime ---
 try:
@@ -31,7 +36,8 @@ try:
         temperature=settings.LLM_TEMPERATURE,
         google_api_key=settings.GOOGLE_API_KEY
     )
-    structured_generator = gemini_llm.with_structured_output(QuizOutput)
+    # Bind the new batch schema
+    structured_generator = gemini_llm.with_structured_output(QuizBatchOutput)
 except Exception as e:
     logger.critical(f"Critical initialization failure for Google Gemini API engine: {e}")
     raise
@@ -49,10 +55,10 @@ def node_extract_web_trends(state: GraphState) -> dict:
     return {"web_context": context}
 
 def node_synthesize_quiz(state: GraphState) -> dict:
-    logger.info("Fusing pipelines to formulate structured LLM quiz challenge...")
+    logger.info("Fusing pipelines to formulate structured LLM quiz challenge batch...")
     
     prompt = f"""
-    You are a professional sports quiz system. Construct a valid multiple-choice quiz centered on: {state['topic']}.
+    You are a professional sports quiz system. Construct a batch of exactly 10 valid multiple-choice questions centered on: {state['topic']}.
     Target Difficulty Specification: {state['difficulty']}
 
     Strictly base factual validity on these combined inputs:
@@ -67,7 +73,7 @@ def node_synthesize_quiz(state: GraphState) -> dict:
     - Medium Mode: Ensure incorrect options are plausible historic athletes, scores, or milestones.
     - Hard Mode: Deceive the user using highly sophisticated, structurally related real dates, similar sports personalities, or inverse statistics that are contextually invalid for this specific prompt.
 
-    Validate your constraints before finishing: The data must be accurate, avoid hallucinating facts, and output exactly 4 unique choices.
+    Validate your constraints before finishing: The data must be accurate, avoid hallucinating facts, and output exactly 10 unique questions.
     """
     
     try:
