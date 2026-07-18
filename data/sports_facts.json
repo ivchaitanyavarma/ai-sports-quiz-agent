@@ -1,0 +1,1782 @@
+[
+  {
+    "sport": "F1",
+    "fact": "Lando Norris won the Formula 1 World Drivers' Championship in 2025."
+  },
+  {
+    "sport": "F1",
+    "fact": "Max Verstappen won the Formula 1 World Drivers' Championship in 2024."
+  },
+  {
+    "sport": "F1",
+    "fact": "Max Verstappen won the Formula 1 World Drivers' Championship in 2023."
+  },
+  {
+    "sport": "F1",
+    "fact": "Max Verstappen won the Formula 1 World Drivers' Championship in 2022."
+  },
+  {
+    "sport": "F1",
+    "fact": "Max Verstappen won the Formula 1 World Drivers' Championship in 2021."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lewis Hamilton won the Formula 1 World Drivers' Championship in 2020."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lewis Hamilton won the Formula 1 World Drivers' Championship in 2019."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lewis Hamilton won the Formula 1 World Drivers' Championship in 2018."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lewis Hamilton won the Formula 1 World Drivers' Championship in 2017."
+  },
+  {
+    "sport": "F1",
+    "fact": "Nico Rosberg won the Formula 1 World Drivers' Championship in 2016."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lewis Hamilton won the Formula 1 World Drivers' Championship in 2015."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lewis Hamilton won the Formula 1 World Drivers' Championship in 2014."
+  },
+  {
+    "sport": "F1",
+    "fact": "Sebastian Vettel won the Formula 1 World Drivers' Championship in 2013."
+  },
+  {
+    "sport": "F1",
+    "fact": "Sebastian Vettel won the Formula 1 World Drivers' Championship in 2012."
+  },
+  {
+    "sport": "F1",
+    "fact": "Sebastian Vettel won the Formula 1 World Drivers' Championship in 2011."
+  },
+  {
+    "sport": "F1",
+    "fact": "Sebastian Vettel won the Formula 1 World Drivers' Championship in 2010."
+  },
+  {
+    "sport": "F1",
+    "fact": "Jenson Button won the Formula 1 World Drivers' Championship in 2009."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lewis Hamilton won the Formula 1 World Drivers' Championship in 2008."
+  },
+  {
+    "sport": "F1",
+    "fact": "Kimi Raikkonen won the Formula 1 World Drivers' Championship in 2007."
+  },
+  {
+    "sport": "F1",
+    "fact": "Fernando Alonso won the Formula 1 World Drivers' Championship in 2006."
+  },
+  {
+    "sport": "F1",
+    "fact": "Fernando Alonso won the Formula 1 World Drivers' Championship in 2005."
+  },
+  {
+    "sport": "F1",
+    "fact": "Michael Schumacher won the Formula 1 World Drivers' Championship in 2004."
+  },
+  {
+    "sport": "F1",
+    "fact": "Michael Schumacher won the Formula 1 World Drivers' Championship in 2003."
+  },
+  {
+    "sport": "F1",
+    "fact": "Michael Schumacher won the Formula 1 World Drivers' Championship in 2002."
+  },
+  {
+    "sport": "F1",
+    "fact": "Michael Schumacher won the Formula 1 World Drivers' Championship in 2001."
+  },
+  {
+    "sport": "F1",
+    "fact": "Michael Schumacher won the Formula 1 World Drivers' Championship in 2000."
+  },
+  {
+    "sport": "F1",
+    "fact": "Mika Hakkinen won the Formula 1 World Drivers' Championship in 1999."
+  },
+  {
+    "sport": "F1",
+    "fact": "Mika Hakkinen won the Formula 1 World Drivers' Championship in 1998."
+  },
+  {
+    "sport": "F1",
+    "fact": "Jacques Villeneuve won the Formula 1 World Drivers' Championship in 1997."
+  },
+  {
+    "sport": "F1",
+    "fact": "Damon Hill won the Formula 1 World Drivers' Championship in 1996."
+  },
+  {
+    "sport": "F1",
+    "fact": "Michael Schumacher won the Formula 1 World Drivers' Championship in 1995."
+  },
+  {
+    "sport": "F1",
+    "fact": "Michael Schumacher won the Formula 1 World Drivers' Championship in 1994."
+  },
+  {
+    "sport": "F1",
+    "fact": "Alain Prost won the Formula 1 World Drivers' Championship in 1993."
+  },
+  {
+    "sport": "F1",
+    "fact": "Nigel Mansell won the Formula 1 World Drivers' Championship in 1992."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ayrton Senna won the Formula 1 World Drivers' Championship in 1991."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ayrton Senna won the Formula 1 World Drivers' Championship in 1990."
+  },
+  {
+    "sport": "F1",
+    "fact": "Alain Prost won the Formula 1 World Drivers' Championship in 1989."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ayrton Senna won the Formula 1 World Drivers' Championship in 1988."
+  },
+  {
+    "sport": "F1",
+    "fact": "Nelson Piquet won the Formula 1 World Drivers' Championship in 1987."
+  },
+  {
+    "sport": "F1",
+    "fact": "Alain Prost won the Formula 1 World Drivers' Championship in 1986."
+  },
+  {
+    "sport": "F1",
+    "fact": "Alain Prost won the Formula 1 World Drivers' Championship in 1985."
+  },
+  {
+    "sport": "F1",
+    "fact": "Niki Lauda won the Formula 1 World Drivers' Championship in 1984."
+  },
+  {
+    "sport": "F1",
+    "fact": "Nelson Piquet won the Formula 1 World Drivers' Championship in 1983."
+  },
+  {
+    "sport": "F1",
+    "fact": "Keke Rosberg won the Formula 1 World Drivers' Championship in 1982."
+  },
+  {
+    "sport": "F1",
+    "fact": "Nelson Piquet won the Formula 1 World Drivers' Championship in 1981."
+  },
+  {
+    "sport": "F1",
+    "fact": "Alan Jones won the Formula 1 World Drivers' Championship in 1980."
+  },
+  {
+    "sport": "F1",
+    "fact": "Jody Scheckter won the Formula 1 World Drivers' Championship in 1979."
+  },
+  {
+    "sport": "F1",
+    "fact": "Mario Andretti won the Formula 1 World Drivers' Championship in 1978."
+  },
+  {
+    "sport": "F1",
+    "fact": "Niki Lauda won the Formula 1 World Drivers' Championship in 1977."
+  },
+  {
+    "sport": "F1",
+    "fact": "James Hunt won the Formula 1 World Drivers' Championship in 1976."
+  },
+  {
+    "sport": "F1",
+    "fact": "Niki Lauda won the Formula 1 World Drivers' Championship in 1975."
+  },
+  {
+    "sport": "F1",
+    "fact": "Emerson Fittipaldi won the Formula 1 World Drivers' Championship in 1974."
+  },
+  {
+    "sport": "F1",
+    "fact": "Jackie Stewart won the Formula 1 World Drivers' Championship in 1973."
+  },
+  {
+    "sport": "F1",
+    "fact": "Emerson Fittipaldi won the Formula 1 World Drivers' Championship in 1972."
+  },
+  {
+    "sport": "F1",
+    "fact": "Jackie Stewart won the Formula 1 World Drivers' Championship in 1971."
+  },
+  {
+    "sport": "F1",
+    "fact": "Jochen Rindt won the Formula 1 World Drivers' Championship in 1970."
+  },
+  {
+    "sport": "F1",
+    "fact": "Jackie Stewart won the Formula 1 World Drivers' Championship in 1969."
+  },
+  {
+    "sport": "F1",
+    "fact": "Graham Hill won the Formula 1 World Drivers' Championship in 1968."
+  },
+  {
+    "sport": "F1",
+    "fact": "Denny Hulme won the Formula 1 World Drivers' Championship in 1967."
+  },
+  {
+    "sport": "F1",
+    "fact": "Jack Brabham won the Formula 1 World Drivers' Championship in 1966."
+  },
+  {
+    "sport": "F1",
+    "fact": "Jim Clark won the Formula 1 World Drivers' Championship in 1965."
+  },
+  {
+    "sport": "F1",
+    "fact": "John Surtees won the Formula 1 World Drivers' Championship in 1964."
+  },
+  {
+    "sport": "F1",
+    "fact": "Jim Clark won the Formula 1 World Drivers' Championship in 1963."
+  },
+  {
+    "sport": "F1",
+    "fact": "Graham Hill won the Formula 1 World Drivers' Championship in 1962."
+  },
+  {
+    "sport": "F1",
+    "fact": "Phil Hill won the Formula 1 World Drivers' Championship in 1961."
+  },
+  {
+    "sport": "F1",
+    "fact": "Jack Brabham won the Formula 1 World Drivers' Championship in 1960."
+  },
+  {
+    "sport": "F1",
+    "fact": "Jack Brabham won the Formula 1 World Drivers' Championship in 1959."
+  },
+  {
+    "sport": "F1",
+    "fact": "Mike Hawthorn won the Formula 1 World Drivers' Championship in 1958."
+  },
+  {
+    "sport": "F1",
+    "fact": "Juan Manuel Fangio won the Formula 1 World Drivers' Championship in 1957."
+  },
+  {
+    "sport": "F1",
+    "fact": "Juan Manuel Fangio won the Formula 1 World Drivers' Championship in 1956."
+  },
+  {
+    "sport": "F1",
+    "fact": "Juan Manuel Fangio won the Formula 1 World Drivers' Championship in 1955."
+  },
+  {
+    "sport": "F1",
+    "fact": "Juan Manuel Fangio won the Formula 1 World Drivers' Championship in 1954."
+  },
+  {
+    "sport": "F1",
+    "fact": "Alberto Ascari won the Formula 1 World Drivers' Championship in 1953."
+  },
+  {
+    "sport": "F1",
+    "fact": "Alberto Ascari won the Formula 1 World Drivers' Championship in 1952."
+  },
+  {
+    "sport": "F1",
+    "fact": "Juan Manuel Fangio won the Formula 1 World Drivers' Championship in 1951."
+  },
+  {
+    "sport": "F1",
+    "fact": "Giuseppe Farina won the Formula 1 World Drivers' Championship in 1950."
+  },
+  {
+    "sport": "F1",
+    "fact": "McLaren won the Formula 1 Constructors' Championship in 2025."
+  },
+  {
+    "sport": "F1",
+    "fact": "McLaren won the Formula 1 Constructors' Championship in 2024."
+  },
+  {
+    "sport": "F1",
+    "fact": "Red Bull Racing won the Formula 1 Constructors' Championship in 2023."
+  },
+  {
+    "sport": "F1",
+    "fact": "Red Bull Racing won the Formula 1 Constructors' Championship in 2022."
+  },
+  {
+    "sport": "F1",
+    "fact": "Mercedes won the Formula 1 Constructors' Championship in 2021."
+  },
+  {
+    "sport": "F1",
+    "fact": "Mercedes won the Formula 1 Constructors' Championship in 2020."
+  },
+  {
+    "sport": "F1",
+    "fact": "Mercedes won the Formula 1 Constructors' Championship in 2019."
+  },
+  {
+    "sport": "F1",
+    "fact": "Mercedes won the Formula 1 Constructors' Championship in 2018."
+  },
+  {
+    "sport": "F1",
+    "fact": "Mercedes won the Formula 1 Constructors' Championship in 2017."
+  },
+  {
+    "sport": "F1",
+    "fact": "Mercedes won the Formula 1 Constructors' Championship in 2016."
+  },
+  {
+    "sport": "F1",
+    "fact": "Mercedes won the Formula 1 Constructors' Championship in 2015."
+  },
+  {
+    "sport": "F1",
+    "fact": "Mercedes won the Formula 1 Constructors' Championship in 2014."
+  },
+  {
+    "sport": "F1",
+    "fact": "Red Bull Racing won the Formula 1 Constructors' Championship in 2013."
+  },
+  {
+    "sport": "F1",
+    "fact": "Red Bull Racing won the Formula 1 Constructors' Championship in 2012."
+  },
+  {
+    "sport": "F1",
+    "fact": "Red Bull Racing won the Formula 1 Constructors' Championship in 2011."
+  },
+  {
+    "sport": "F1",
+    "fact": "Red Bull Racing won the Formula 1 Constructors' Championship in 2010."
+  },
+  {
+    "sport": "F1",
+    "fact": "Brawn GP won the Formula 1 Constructors' Championship in 2009."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 2008."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 2007."
+  },
+  {
+    "sport": "F1",
+    "fact": "Renault won the Formula 1 Constructors' Championship in 2006."
+  },
+  {
+    "sport": "F1",
+    "fact": "Renault won the Formula 1 Constructors' Championship in 2005."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 2004."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 2003."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 2002."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 2001."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 2000."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 1999."
+  },
+  {
+    "sport": "F1",
+    "fact": "McLaren won the Formula 1 Constructors' Championship in 1998."
+  },
+  {
+    "sport": "F1",
+    "fact": "Williams won the Formula 1 Constructors' Championship in 1997."
+  },
+  {
+    "sport": "F1",
+    "fact": "Williams won the Formula 1 Constructors' Championship in 1996."
+  },
+  {
+    "sport": "F1",
+    "fact": "Benetton won the Formula 1 Constructors' Championship in 1995."
+  },
+  {
+    "sport": "F1",
+    "fact": "Williams won the Formula 1 Constructors' Championship in 1994."
+  },
+  {
+    "sport": "F1",
+    "fact": "Williams won the Formula 1 Constructors' Championship in 1993."
+  },
+  {
+    "sport": "F1",
+    "fact": "Williams won the Formula 1 Constructors' Championship in 1992."
+  },
+  {
+    "sport": "F1",
+    "fact": "McLaren won the Formula 1 Constructors' Championship in 1991."
+  },
+  {
+    "sport": "F1",
+    "fact": "McLaren won the Formula 1 Constructors' Championship in 1990."
+  },
+  {
+    "sport": "F1",
+    "fact": "McLaren won the Formula 1 Constructors' Championship in 1989."
+  },
+  {
+    "sport": "F1",
+    "fact": "McLaren won the Formula 1 Constructors' Championship in 1988."
+  },
+  {
+    "sport": "F1",
+    "fact": "Williams won the Formula 1 Constructors' Championship in 1987."
+  },
+  {
+    "sport": "F1",
+    "fact": "Williams won the Formula 1 Constructors' Championship in 1986."
+  },
+  {
+    "sport": "F1",
+    "fact": "McLaren won the Formula 1 Constructors' Championship in 1985."
+  },
+  {
+    "sport": "F1",
+    "fact": "McLaren won the Formula 1 Constructors' Championship in 1984."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 1983."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 1982."
+  },
+  {
+    "sport": "F1",
+    "fact": "Williams won the Formula 1 Constructors' Championship in 1981."
+  },
+  {
+    "sport": "F1",
+    "fact": "Williams won the Formula 1 Constructors' Championship in 1980."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 1979."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lotus won the Formula 1 Constructors' Championship in 1978."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 1977."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 1976."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 1975."
+  },
+  {
+    "sport": "F1",
+    "fact": "McLaren won the Formula 1 Constructors' Championship in 1974."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lotus won the Formula 1 Constructors' Championship in 1973."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lotus won the Formula 1 Constructors' Championship in 1972."
+  },
+  {
+    "sport": "F1",
+    "fact": "Tyrrell won the Formula 1 Constructors' Championship in 1971."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lotus won the Formula 1 Constructors' Championship in 1970."
+  },
+  {
+    "sport": "F1",
+    "fact": "Matra won the Formula 1 Constructors' Championship in 1969."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lotus won the Formula 1 Constructors' Championship in 1968."
+  },
+  {
+    "sport": "F1",
+    "fact": "Brabham won the Formula 1 Constructors' Championship in 1967."
+  },
+  {
+    "sport": "F1",
+    "fact": "Brabham won the Formula 1 Constructors' Championship in 1966."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lotus won the Formula 1 Constructors' Championship in 1965."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 1964."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lotus won the Formula 1 Constructors' Championship in 1963."
+  },
+  {
+    "sport": "F1",
+    "fact": "BRM won the Formula 1 Constructors' Championship in 1962."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari won the Formula 1 Constructors' Championship in 1961."
+  },
+  {
+    "sport": "F1",
+    "fact": "Cooper won the Formula 1 Constructors' Championship in 1960."
+  },
+  {
+    "sport": "F1",
+    "fact": "Cooper won the Formula 1 Constructors' Championship in 1959."
+  },
+  {
+    "sport": "F1",
+    "fact": "Vanwall won the Formula 1 Constructors' Championship in 1958."
+  },
+  {
+    "sport": "F1",
+    "fact": "Formula 1's inaugural World Championship season was held in 1950."
+  },
+  {
+    "sport": "F1",
+    "fact": "Giuseppe Farina was the first Formula 1 World Drivers' Champion, winning the title in 1950."
+  },
+  {
+    "sport": "F1",
+    "fact": "The Constructors' Championship was introduced in 1958, eight years after the Drivers' Championship began."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lewis Hamilton and Michael Schumacher share the record for most Formula 1 Drivers' Championships, with seven titles each."
+  },
+  {
+    "sport": "F1",
+    "fact": "Sebastian Vettel is the youngest Formula 1 World Champion, winning his first title in 2010 at age 23 years and 134 days."
+  },
+  {
+    "sport": "F1",
+    "fact": "Juan Manuel Fangio is the oldest Formula 1 World Champion, winning his fifth and final title in 1957 at age 46 years and 41 days."
+  },
+  {
+    "sport": "F1",
+    "fact": "Ferrari has won more Formula 1 Constructors' Championships than any other team."
+  },
+  {
+    "sport": "F1",
+    "fact": "Max Verstappen won four consecutive Formula 1 Drivers' Championships from 2021 to 2024."
+  },
+  {
+    "sport": "F1",
+    "fact": "Sebastian Vettel won four consecutive Formula 1 Drivers' Championships from 2010 to 2013 with Red Bull Racing."
+  },
+  {
+    "sport": "F1",
+    "fact": "Michael Schumacher won five consecutive Formula 1 Drivers' Championships from 2000 to 2004 with Ferrari."
+  },
+  {
+    "sport": "F1",
+    "fact": "Phil Hill, the 1961 F1 champion, and Mario Andretti, the 1978 champion, are the only two American Formula 1 World Champions."
+  },
+  {
+    "sport": "F1",
+    "fact": "Lando Norris won his first Formula 1 World Drivers' Championship in 2025."
+  },
+  {
+    "sport": "F1",
+    "fact": "McLaren won its 10th Formula 1 Constructors' Championship in 2025."
+  },
+  {
+    "sport": "F1",
+    "fact": "As of the 2025 season, 35 different drivers have been crowned Formula 1 World Champion."
+  },
+  {
+    "sport": "F1",
+    "fact": "Mercedes won eight consecutive Formula 1 Constructors' Championships from 2014 to 2021."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1930 FIFA World Cup, held in Uruguay, was won by Uruguay, who defeated Argentina 4-2 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1934 FIFA World Cup, held in Italy, was won by Italy, who defeated Czechoslovakia 2-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1938 FIFA World Cup, held in France, was won by Italy, who defeated Hungary 4-2 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1950 FIFA World Cup, held in Brazil, was won by Uruguay, who defeated Brazil 2-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1954 FIFA World Cup, held in Switzerland, was won by Germany, who defeated Hungary 3-2 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1958 FIFA World Cup, held in Sweden, was won by Brazil, who defeated Sweden 5-2 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1962 FIFA World Cup, held in Chile, was won by Brazil, who defeated Czechoslovakia 3-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1966 FIFA World Cup, held in England, was won by England, who defeated Germany 4-2 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1970 FIFA World Cup, held in Mexico, was won by Brazil, who defeated Italy 4-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1974 FIFA World Cup, held in Germany, was won by Germany, who defeated Netherlands 2-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1978 FIFA World Cup, held in Argentina, was won by Argentina, who defeated Netherlands 3-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1982 FIFA World Cup, held in Spain, was won by Italy, who defeated Germany 3-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1986 FIFA World Cup, held in Mexico, was won by Argentina, who defeated Germany 3-2 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1990 FIFA World Cup, held in Italy, was won by Germany, who defeated Argentina 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1994 FIFA World Cup, held in USA, was won by Brazil, who defeated Italy 0-0 (Brazil won 3-2 on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1998 FIFA World Cup, held in France, was won by France, who defeated Brazil 3-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 2002 FIFA World Cup, held in Korea/Japan, was won by Brazil, who defeated Germany 2-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 2006 FIFA World Cup, held in Germany, was won by Italy, who defeated France 1-1 (Italy won 5-3 on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 2010 FIFA World Cup, held in South Africa, was won by Spain, who defeated Netherlands 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 2014 FIFA World Cup, held in Brazil, was won by Germany, who defeated Argentina 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 2018 FIFA World Cup, held in Russia, was won by France, who defeated Croatia 4-2 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 2022 FIFA World Cup, held in Qatar, was won by Argentina, who defeated France 3-3 (Argentina won 4-2 on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Soviet Union won the UEFA European Championship in 1960."
+  },
+  {
+    "sport": "Football",
+    "fact": "Spain won the UEFA European Championship in 1964."
+  },
+  {
+    "sport": "Football",
+    "fact": "Italy won the UEFA European Championship in 1968."
+  },
+  {
+    "sport": "Football",
+    "fact": "West Germany won the UEFA European Championship in 1972."
+  },
+  {
+    "sport": "Football",
+    "fact": "Czechoslovakia won the UEFA European Championship in 1976."
+  },
+  {
+    "sport": "Football",
+    "fact": "West Germany won the UEFA European Championship in 1980."
+  },
+  {
+    "sport": "Football",
+    "fact": "France won the UEFA European Championship in 1984."
+  },
+  {
+    "sport": "Football",
+    "fact": "Netherlands won the UEFA European Championship in 1988."
+  },
+  {
+    "sport": "Football",
+    "fact": "Denmark won the UEFA European Championship in 1992."
+  },
+  {
+    "sport": "Football",
+    "fact": "Germany won the UEFA European Championship in 1996."
+  },
+  {
+    "sport": "Football",
+    "fact": "France won the UEFA European Championship in 2000."
+  },
+  {
+    "sport": "Football",
+    "fact": "Greece won the UEFA European Championship in 2004."
+  },
+  {
+    "sport": "Football",
+    "fact": "Spain won the UEFA European Championship in 2008."
+  },
+  {
+    "sport": "Football",
+    "fact": "Spain won the UEFA European Championship in 2012."
+  },
+  {
+    "sport": "Football",
+    "fact": "Portugal won the UEFA European Championship in 2016."
+  },
+  {
+    "sport": "Football",
+    "fact": "Italy won the UEFA European Championship in 2020 (held in 2021 due to COVID-19)."
+  },
+  {
+    "sport": "Football",
+    "fact": "Spain won the UEFA European Championship in 2024."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 1956, defeating Reims 4-3 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 1957, defeating Fiorentina 2-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 1958, defeating Milan 3-2 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 1959, defeating Reims 2-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 1960, defeating Eintracht Frankfurt 7-3 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Benfica won the UEFA Champions League (European Cup) in 1961, defeating Barcelona 3-2 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Benfica won the UEFA Champions League (European Cup) in 1962, defeating Real Madrid 5-3 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Milan won the UEFA Champions League (European Cup) in 1963, defeating Benfica 2-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Inter Milan won the UEFA Champions League (European Cup) in 1964, defeating Real Madrid 3-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Inter Milan won the UEFA Champions League (European Cup) in 1965, defeating Benfica 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 1966, defeating Partizan 2-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Celtic won the UEFA Champions League (European Cup) in 1967, defeating Inter Milan 2-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Manchester United won the UEFA Champions League (European Cup) in 1968, defeating Benfica 4-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Milan won the UEFA Champions League (European Cup) in 1969, defeating Ajax 4-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Feyenoord won the UEFA Champions League (European Cup) in 1970, defeating Celtic 2-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Ajax won the UEFA Champions League (European Cup) in 1971, defeating Panathinaikos 2-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Ajax won the UEFA Champions League (European Cup) in 1972, defeating Inter Milan 2-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Ajax won the UEFA Champions League (European Cup) in 1973, defeating Juventus 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Bayern Munich won the UEFA Champions League (European Cup) in 1974, defeating Atletico Madrid 4-0 (replay) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Bayern Munich won the UEFA Champions League (European Cup) in 1975, defeating Leeds United 2-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Bayern Munich won the UEFA Champions League (European Cup) in 1976, defeating Saint-Etienne 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Liverpool won the UEFA Champions League (European Cup) in 1977, defeating Borussia Monchengladbach 3-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Liverpool won the UEFA Champions League (European Cup) in 1978, defeating Club Brugge 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Nottingham Forest won the UEFA Champions League (European Cup) in 1979, defeating Malmo FF 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Nottingham Forest won the UEFA Champions League (European Cup) in 1980, defeating Hamburger SV 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Liverpool won the UEFA Champions League (European Cup) in 1981, defeating Real Madrid 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Aston Villa won the UEFA Champions League (European Cup) in 1982, defeating Bayern Munich 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Hamburger SV won the UEFA Champions League (European Cup) in 1983, defeating Juventus 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Liverpool won the UEFA Champions League (European Cup) in 1984, defeating Roma 1-1 (won on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Juventus won the UEFA Champions League (European Cup) in 1985, defeating Liverpool 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Steaua Bucuresti won the UEFA Champions League (European Cup) in 1986, defeating Barcelona 0-0 (won on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Porto won the UEFA Champions League (European Cup) in 1987, defeating Bayern Munich 2-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "PSV Eindhoven won the UEFA Champions League (European Cup) in 1988, defeating Benfica 0-0 (won on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Milan won the UEFA Champions League (European Cup) in 1989, defeating Steaua Bucuresti 4-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Milan won the UEFA Champions League (European Cup) in 1990, defeating Benfica 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Red Star Belgrade won the UEFA Champions League (European Cup) in 1991, defeating Marseille 0-0 (won on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Barcelona won the UEFA Champions League (European Cup) in 1992, defeating Sampdoria 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Marseille won the UEFA Champions League (European Cup) in 1993, defeating Milan 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Milan won the UEFA Champions League (European Cup) in 1994, defeating Barcelona 4-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Ajax won the UEFA Champions League (European Cup) in 1995, defeating Milan 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Juventus won the UEFA Champions League (European Cup) in 1996, defeating Ajax 1-1 (won on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Borussia Dortmund won the UEFA Champions League (European Cup) in 1997, defeating Juventus 3-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 1998, defeating Juventus 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Manchester United won the UEFA Champions League (European Cup) in 1999, defeating Bayern Munich 2-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 2000, defeating Valencia 3-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Bayern Munich won the UEFA Champions League (European Cup) in 2001, defeating Valencia 1-1 (won on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 2002, defeating Bayer Leverkusen 2-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Milan won the UEFA Champions League (European Cup) in 2003, defeating Juventus 0-0 (won on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Porto won the UEFA Champions League (European Cup) in 2004, defeating Monaco 3-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Liverpool won the UEFA Champions League (European Cup) in 2005, defeating Milan 3-3 (won on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Barcelona won the UEFA Champions League (European Cup) in 2006, defeating Arsenal 2-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Milan won the UEFA Champions League (European Cup) in 2007, defeating Liverpool 2-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Manchester United won the UEFA Champions League (European Cup) in 2008, defeating Chelsea 1-1 (won on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Barcelona won the UEFA Champions League (European Cup) in 2009, defeating Manchester United 2-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Inter Milan won the UEFA Champions League (European Cup) in 2010, defeating Bayern Munich 2-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Barcelona won the UEFA Champions League (European Cup) in 2011, defeating Manchester United 3-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Chelsea won the UEFA Champions League (European Cup) in 2012, defeating Bayern Munich 1-1 (won on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Bayern Munich won the UEFA Champions League (European Cup) in 2013, defeating Borussia Dortmund 2-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 2014, defeating Atletico Madrid 4-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Barcelona won the UEFA Champions League (European Cup) in 2015, defeating Juventus 3-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 2016, defeating Atletico Madrid 1-1 (won on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 2017, defeating Juventus 4-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 2018, defeating Liverpool 3-1 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Liverpool won the UEFA Champions League (European Cup) in 2019, defeating Tottenham Hotspur 2-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Bayern Munich won the UEFA Champions League (European Cup) in 2020, defeating Paris Saint-Germain 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Chelsea won the UEFA Champions League (European Cup) in 2021, defeating Manchester City 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 2022, defeating Liverpool 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Manchester City won the UEFA Champions League (European Cup) in 2023, defeating Inter Milan 1-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won the UEFA Champions League (European Cup) in 2024, defeating Borussia Dortmund 2-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Paris Saint-Germain won the UEFA Champions League (European Cup) in 2025, defeating Inter Milan 5-0 in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Paris Saint-Germain won the UEFA Champions League (European Cup) in 2026, defeating Arsenal 1-1 (won on penalties) in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "Brazil has won the FIFA World Cup a record five times: 1958, 1962, 1970, 1994, and 2002."
+  },
+  {
+    "sport": "Football",
+    "fact": "Brazil is the only nation to have played in every FIFA World Cup tournament ever held."
+  },
+  {
+    "sport": "Football",
+    "fact": "Germany and Italy are tied for the second-most FIFA World Cup titles, with four each."
+  },
+  {
+    "sport": "Football",
+    "fact": "Only Brazil (1958, 1962) and Italy (1934, 1938) have won back-to-back FIFA World Cups; no team has won three in a row."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 1930 FIFA World Cup in Uruguay was the first edition of the tournament and featured 13 teams."
+  },
+  {
+    "sport": "Football",
+    "fact": "The FIFA World Cup was not held in 1942 or 1946 due to World War II."
+  },
+  {
+    "sport": "Football",
+    "fact": "Lionel Messi won his first FIFA World Cup title in 2022 with Argentina, ending a 36-year title drought for the country."
+  },
+  {
+    "sport": "Football",
+    "fact": "The 2026 FIFA World Cup will be the first to feature 48 teams, up from 32, and will be jointly hosted by the United States, Canada, and Mexico."
+  },
+  {
+    "sport": "Football",
+    "fact": "Spain is the most successful nation in UEFA European Championship history, with four titles: 1964, 2008, 2012, and 2024."
+  },
+  {
+    "sport": "Football",
+    "fact": "Spain is the only nation to have won consecutive UEFA European Championships, in 2008 and 2012."
+  },
+  {
+    "sport": "Football",
+    "fact": "Ten different nations have won the UEFA European Championship since it began in 1960."
+  },
+  {
+    "sport": "Football",
+    "fact": "The UEFA European Championship expanded to a 24-team format starting with the 2016 tournament in France."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid holds the record for most UEFA Champions League/European Cup titles, with 15 championships."
+  },
+  {
+    "sport": "Football",
+    "fact": "Real Madrid won five consecutive European Cup titles from 1956 to 1960, the first five editions of the competition."
+  },
+  {
+    "sport": "Football",
+    "fact": "Six clubs have earned the UEFA multiple-winner badge for winning the European Cup/Champions League five times or three times in a row: Real Madrid, Ajax, Bayern Munich, AC Milan, Liverpool, and Barcelona."
+  },
+  {
+    "sport": "Football",
+    "fact": "Spain has provided the most UEFA Champions League-winning clubs of any nation, with 20 titles between Real Madrid and Barcelona."
+  },
+  {
+    "sport": "Football",
+    "fact": "English clubs were banned from European competition for five years following the 1985 Heysel Stadium disaster."
+  },
+  {
+    "sport": "Football",
+    "fact": "Paris Saint-Germain won their first UEFA Champions League title in 2025, defeating Inter Milan 5-0 in the final."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 1975 ICC Men's Cricket World Cup, held in England, was won by West Indies, who beat Australia in the final (won by 17 runs)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 1979 ICC Men's Cricket World Cup, held in England, was won by West Indies, who beat England in the final (won the final)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 1983 ICC Men's Cricket World Cup, held in England, was won by India, who beat West Indies in the final (won the final)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 1987 ICC Men's Cricket World Cup, held in India/Pakistan, was won by Australia, who beat England in the final (won by 7 runs)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 1992 ICC Men's Cricket World Cup, held in Australia/New Zealand, was won by Pakistan, who beat England in the final (won by 22 runs)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 1996 ICC Men's Cricket World Cup, held in India/Pakistan/Sri Lanka, was won by Sri Lanka, who beat Australia in the final (won by 7 wickets)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 1999 ICC Men's Cricket World Cup, held in England, was won by Australia, who beat Pakistan in the final (won the final)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2003 ICC Men's Cricket World Cup, held in South Africa, was won by Australia, who beat India in the final (won the final)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2007 ICC Men's Cricket World Cup, held in West Indies, was won by Australia, who beat Sri Lanka in the final (won by 53 runs)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2011 ICC Men's Cricket World Cup, held in India/Sri Lanka/Bangladesh, was won by India, who beat Sri Lanka in the final (won by 6 wickets)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2015 ICC Men's Cricket World Cup, held in Australia/New Zealand, was won by Australia, who beat New Zealand in the final (won by 7 wickets)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2019 ICC Men's Cricket World Cup, held in England, was won by England, who beat New Zealand in the final (won on boundary count after a Super Over, scores level at 241)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2023 ICC Men's Cricket World Cup, held in India, was won by Australia, who beat India in the final (won by 6 wickets)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2007 ICC Men's T20 World Cup, held in South Africa, was won by India, who beat Pakistan in the final (won by 5 runs)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2009 ICC Men's T20 World Cup, held in England, was won by Pakistan, who beat Sri Lanka in the final (won the final)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2010 ICC Men's T20 World Cup, held in West Indies, was won by England, who beat Australia in the final (won by 7 wickets)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2012 ICC Men's T20 World Cup, held in Sri Lanka, was won by West Indies, who beat Sri Lanka in the final (won by 36 runs)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2014 ICC Men's T20 World Cup, held in Bangladesh, was won by Sri Lanka, who beat India in the final (won the final)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2016 ICC Men's T20 World Cup, held in India, was won by West Indies, who beat England in the final (won by 4 wickets)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2021 ICC Men's T20 World Cup, held in United Arab Emirates/Oman, was won by Australia, who beat New Zealand in the final (won the final)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2022 ICC Men's T20 World Cup, held in Australia, was won by England, who beat Pakistan in the final (won the final)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2024 ICC Men's T20 World Cup, held in West Indies/USA, was won by India, who beat South Africa in the final (won by 7 runs)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2026 ICC Men's T20 World Cup, held in India/Sri Lanka, was won by India, who beat New Zealand in the final (won the final)."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "New Zealand won the ICC World Test Championship in 2021, defeating India (won by 8 wickets) at Rose Bowl, Southampton, England."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "Australia won the ICC World Test Championship in 2023, defeating India (won by 209 runs) at The Oval, London, England."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "South Africa won the ICC World Test Championship in 2025, defeating Australia (won by 5 wickets) at Lord's, London, England."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The first Cricket World Cup was held in England in 1975, played in a 60-overs-per-side format."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "Australia has won the ICC Men's Cricket World Cup a record six times: 1987, 1999, 2003, 2007, 2015, and 2023."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "India and West Indies are the only two nations to have won the ODI Cricket World Cup twice each."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "In 2007, Australia became the first team to win three consecutive ODI Cricket World Cup titles."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The number of overs per side in the Cricket World Cup was reduced to 50 starting with the 1987 tournament."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2019 Cricket World Cup final between England and New Zealand ended level after both regulation play and a Super Over; England won on the boundary count-back rule."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "Kapil Dev captained India to their first Cricket World Cup title in 1983."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "MS Dhoni captained India to their second ODI Cricket World Cup title in 2011, played on home soil."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The first ICC Men's T20 World Cup was held in South Africa in 2007 and was won by India under captain MS Dhoni."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "India became the first team to successfully defend the T20 World Cup title, winning in both 2024 and 2026."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "West Indies is the only team to have won the T20 World Cup twice in its early era, in 2012 and 2016."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "England is the only team to have held both the ODI and T20 World Cup titles simultaneously, in 2022."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The ICC World Test Championship was introduced in 2019 as a structured league phase culminating in a final between the top two teams."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "New Zealand won the inaugural ICC World Test Championship final in 2021, defeating India at the Rose Bowl in Southampton."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "South Africa's 2025 World Test Championship title was their first ICC trophy since the 1998 ICC KnockOut Trophy, ending a 28-year drought."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The ICC World Test Championship points system awards 12 points for a win, 4 for a draw, and 6 for a tie, with penalties for slow over rates."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The 2027 ICC Men's Cricket World Cup will be hosted by South Africa, Zimbabwe, and Namibia."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Philadelphia Warriors won the NBA Championship in 1947, defeating the Chicago Stags 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Baltimore Bullets won the NBA Championship in 1948, defeating the Philadelphia Warriors 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Minneapolis Lakers won the NBA Championship in 1949, defeating the Washington Capitols 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Minneapolis Lakers won the NBA Championship in 1950, defeating the Syracuse Nationals 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Rochester Royals won the NBA Championship in 1951, defeating the New York Knicks 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Minneapolis Lakers won the NBA Championship in 1952, defeating the New York Knicks 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Minneapolis Lakers won the NBA Championship in 1953, defeating the New York Knicks 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Minneapolis Lakers won the NBA Championship in 1954, defeating the Syracuse Nationals 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Syracuse Nationals won the NBA Championship in 1955, defeating the Fort Wayne Pistons 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Philadelphia Warriors won the NBA Championship in 1956, defeating the Fort Wayne Pistons 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1957, defeating the St. Louis Hawks 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The St. Louis Hawks won the NBA Championship in 1958, defeating the Boston Celtics 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1959, defeating the Minneapolis Lakers 4-0 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1960, defeating the St. Louis Hawks 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1961, defeating the St. Louis Hawks 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1962, defeating the Los Angeles Lakers 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1963, defeating the Los Angeles Lakers 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1964, defeating the San Francisco Warriors 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1965, defeating the Los Angeles Lakers 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1966, defeating the Los Angeles Lakers 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Philadelphia 76ers won the NBA Championship in 1967, defeating the San Francisco Warriors 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1968, defeating the Los Angeles Lakers 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1969, defeating the Los Angeles Lakers 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The New York Knicks won the NBA Championship in 1970, defeating the Los Angeles Lakers 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Milwaukee Bucks won the NBA Championship in 1971, defeating the Baltimore Bullets 4-0 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Los Angeles Lakers won the NBA Championship in 1972, defeating the New York Knicks 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The New York Knicks won the NBA Championship in 1973, defeating the Los Angeles Lakers 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1974, defeating the Milwaukee Bucks 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Golden State Warriors won the NBA Championship in 1975, defeating the Washington Bullets 4-0 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1976, defeating the Phoenix Suns 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Portland Trail Blazers won the NBA Championship in 1977, defeating the Philadelphia 76ers 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Washington Bullets won the NBA Championship in 1978, defeating the Seattle SuperSonics 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Seattle SuperSonics won the NBA Championship in 1979, defeating the Washington Bullets 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Los Angeles Lakers won the NBA Championship in 1980, defeating the Philadelphia 76ers 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1981, defeating the Houston Rockets 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Los Angeles Lakers won the NBA Championship in 1982, defeating the Philadelphia 76ers 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Philadelphia 76ers won the NBA Championship in 1983, defeating the Los Angeles Lakers 4-0 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1984, defeating the Los Angeles Lakers 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Los Angeles Lakers won the NBA Championship in 1985, defeating the Boston Celtics 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 1986, defeating the Houston Rockets 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Los Angeles Lakers won the NBA Championship in 1987, defeating the Boston Celtics 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Los Angeles Lakers won the NBA Championship in 1988, defeating the Detroit Pistons 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Detroit Pistons won the NBA Championship in 1989, defeating the Los Angeles Lakers 4-0 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Detroit Pistons won the NBA Championship in 1990, defeating the Portland Trail Blazers 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Chicago Bulls won the NBA Championship in 1991, defeating the Los Angeles Lakers 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Chicago Bulls won the NBA Championship in 1992, defeating the Portland Trail Blazers 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Chicago Bulls won the NBA Championship in 1993, defeating the Phoenix Suns 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Houston Rockets won the NBA Championship in 1994, defeating the New York Knicks 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Houston Rockets won the NBA Championship in 1995, defeating the Orlando Magic 4-0 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Chicago Bulls won the NBA Championship in 1996, defeating the Seattle SuperSonics 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Chicago Bulls won the NBA Championship in 1997, defeating the Utah Jazz 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Chicago Bulls won the NBA Championship in 1998, defeating the Utah Jazz 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The San Antonio Spurs won the NBA Championship in 1999, defeating the New York Knicks 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Los Angeles Lakers won the NBA Championship in 2000, defeating the Indiana Pacers 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Los Angeles Lakers won the NBA Championship in 2001, defeating the Philadelphia 76ers 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Los Angeles Lakers won the NBA Championship in 2002, defeating the New Jersey Nets 4-0 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The San Antonio Spurs won the NBA Championship in 2003, defeating the New Jersey Nets 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Detroit Pistons won the NBA Championship in 2004, defeating the Los Angeles Lakers 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The San Antonio Spurs won the NBA Championship in 2005, defeating the Detroit Pistons 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Miami Heat won the NBA Championship in 2006, defeating the Dallas Mavericks 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The San Antonio Spurs won the NBA Championship in 2007, defeating the Cleveland Cavaliers 4-0 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 2008, defeating the Los Angeles Lakers 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Los Angeles Lakers won the NBA Championship in 2009, defeating the Orlando Magic 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Los Angeles Lakers won the NBA Championship in 2010, defeating the Boston Celtics 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Dallas Mavericks won the NBA Championship in 2011, defeating the Miami Heat 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Miami Heat won the NBA Championship in 2012, defeating the Oklahoma City Thunder 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Miami Heat won the NBA Championship in 2013, defeating the San Antonio Spurs 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The San Antonio Spurs won the NBA Championship in 2014, defeating the Miami Heat 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Golden State Warriors won the NBA Championship in 2015, defeating the Cleveland Cavaliers 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Cleveland Cavaliers won the NBA Championship in 2016, defeating the Golden State Warriors 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Golden State Warriors won the NBA Championship in 2017, defeating the Cleveland Cavaliers 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Golden State Warriors won the NBA Championship in 2018, defeating the Cleveland Cavaliers 4-0 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Toronto Raptors won the NBA Championship in 2019, defeating the Golden State Warriors 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Los Angeles Lakers won the NBA Championship in 2020, defeating the Miami Heat 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Milwaukee Bucks won the NBA Championship in 2021, defeating the Phoenix Suns 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Golden State Warriors won the NBA Championship in 2022, defeating the Boston Celtics 4-2 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Denver Nuggets won the NBA Championship in 2023, defeating the Miami Heat 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won the NBA Championship in 2024, defeating the Dallas Mavericks 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Oklahoma City Thunder won the NBA Championship in 2025, defeating the Indiana Pacers 4-3 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The New York Knicks won the NBA Championship in 2026, defeating the San Antonio Spurs 4-1 in the Finals."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1950 FIBA Basketball World Cup, held in Argentina, was won by Argentina, who defeated USA 64-50 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1954 FIBA Basketball World Cup, held in Brazil, was won by USA, who defeated Brazil 62-41 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1959 FIBA Basketball World Cup, held in Chile, was won by Brazil, who defeated USA in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1963 FIBA Basketball World Cup, held in Brazil, was won by Brazil, who defeated Yugoslavia 90-71 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1967 FIBA Basketball World Cup, held in Uruguay, was won by Soviet Union, who defeated Yugoslavia 71-59 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1970 FIBA Basketball World Cup, held in Yugoslavia, was won by Yugoslavia, who defeated Brazil 80-55 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1974 FIBA Basketball World Cup, held in Puerto Rico, was won by Soviet Union, who defeated Yugoslavia 82-79 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1978 FIBA Basketball World Cup, held in Philippines, was won by Yugoslavia, who defeated Soviet Union 82-81 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1982 FIBA Basketball World Cup, held in Colombia, was won by Soviet Union, who defeated USA 95-94 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1986 FIBA Basketball World Cup, held in Spain, was won by USA, who defeated Soviet Union 87-85 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1990 FIBA Basketball World Cup, held in Argentina, was won by Yugoslavia, who defeated Soviet Union 92-75 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1994 FIBA Basketball World Cup, held in Canada, was won by USA, who defeated Russia 137-91 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1998 FIBA Basketball World Cup, held in Greece, was won by Yugoslavia, who defeated Russia 64-62 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 2002 FIBA Basketball World Cup, held in USA, was won by Yugoslavia, who defeated Argentina 84-77 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 2006 FIBA Basketball World Cup, held in Japan, was won by Spain, who defeated Greece 70-47 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 2010 FIBA Basketball World Cup, held in Turkey, was won by USA, who defeated Turkey 81-64 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 2014 FIBA Basketball World Cup, held in Spain, was won by USA, who defeated Serbia 129-92 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 2019 FIBA Basketball World Cup, held in China, was won by Spain, who defeated Argentina 95-75 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 2023 FIBA Basketball World Cup, held in Philippines/Japan/Indonesia, was won by Germany, who defeated Serbia 83-77 in the final."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics have won the most NBA championships of any franchise, with 18 titles."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics won eight consecutive NBA championships from 1959 to 1966, the longest title streak in NBA history."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "Bill Russell holds the record for most NBA championships won by a player, with 11 titles, all with the Boston Celtics."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Chicago Bulls won six NBA championships in the 1990s, all with Michael Jordan, across two separate three-peats (1991-93 and 1996-98)."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The NBA recognizes its first champion, the Philadelphia Warriors, as the winner of the Basketball Association of America (BAA) in 1947, before the league was renamed the NBA in 1949."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics and Los Angeles Lakers are the two most successful franchises in NBA history, combining for 35 championships."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Golden State Warriors' 2015 championship began a run in which the franchise won four NBA titles within an eight-year period."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 2019-2025 NBA seasons produced seven different champions in seven years, a modern-era parity record."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The United States and the former Yugoslavia are tied for the most FIBA Basketball World Cup titles, with five each."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The first FIBA Basketball World Championship was held in Argentina in 1950, and the host nation won the inaugural title."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "Germany won its first-ever FIBA Basketball World Cup title in 2023, defeating Serbia 83-77 in the final in Manila."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "Spain won the FIBA Basketball World Cup in 2006 and 2019, becoming a two-time champion."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The FIBA Basketball World Cup field expanded from 16 teams to 24 in 2006, and then to 32 teams starting in 2019."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The United States men's basketball team has won 17 of the 20 Olympic basketball tournaments held."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The 1992 U.S. Olympic men's basketball team, known as the 'Dream Team,' was the first American team to include active NBA players."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The United States men's Olympic basketball team has won gold medals at every Summer Olympics from 1936 to 2024 except 1972, 1988, and 2004."
+  }
+]
