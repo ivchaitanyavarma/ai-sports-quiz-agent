@@ -19,7 +19,7 @@ class Settings(BaseSettings):
     # Hugging Face model (Used if provider is 'huggingface')
     HF_EMBEDDING_MODEL: str = "mixedbread-ai/mxbai-embed-large-v1"
     
-    LLM_MODEL: str = "gemini-1.5-flash"
+    LLM_MODEL: str = "gemini-3.5-flash"
     LLM_TEMPERATURE: float = 0.7
     
     model_config = SettingsConfigDict(
